@@ -1,10 +1,12 @@
 import './App.css'
+import Login from './login/login'
 
 function App() {
 
   return (
     <>
-      <h2>Challenge</h2>
+    <Login/>
+
     </>
   )
 }
